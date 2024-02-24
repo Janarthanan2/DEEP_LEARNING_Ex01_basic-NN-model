@@ -118,3 +118,5 @@ Find the test data root mean squared error
 Include your sample input and output here
 
 ## RESULT
+
+Thus to develop a neural network regression model for the dataset created is successfully executed.
