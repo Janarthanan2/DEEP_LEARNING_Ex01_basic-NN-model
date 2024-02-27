@@ -111,11 +111,11 @@ AI_Brain.predict(X_n1_1)
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+<img src="https://github.com/Janarthanan2/DEEP_LEARNING_Ex01_basic-NN-model/assets/119393515/a9b63a1a-862d-4a15-99a5-85390f7c7ab4">
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+<img src="https://github.com/Janarthanan2/DEEP_LEARNING_Ex01_basic-NN-model/assets/119393515/0ed86b07-6d34-461b-a857-7ac33cf5a4f8" width=35%>
 
 ## RESULT
 
